@@ -1,0 +1,25 @@
+{
+  "name": "node_js_express_js_fundamentals",
+  "version": "1.0.0",
+  "description": "node --version npm --version",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffreyAsuncion/Node_js_Express_js_Fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffreyAsuncion/Node_js_Express_js_Fundamentals/issues"
+  },
+  "homepage": "https://github.com/JeffreyAsuncion/Node_js_Express_js_Fundamentals#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
