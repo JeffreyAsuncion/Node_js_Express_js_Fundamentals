@@ -49,3 +49,6 @@ To remove pkg manually
 -- kill package-lock.json
 -- delete line of pkg in package json
 >>> npm install
+
+Install nodemon globally but preferred to use npx (package runner)
+>>> npm install -g nodemon
